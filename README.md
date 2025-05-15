@@ -35,3 +35,8 @@ Here are some ideas to get you started:
 ##### Connect with me
 
 !["https://instagram.com/fadelfitrah_"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+##### My Github Stats
+
+![Fadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadelfitrah&show_icons=true&theme=transparent)
