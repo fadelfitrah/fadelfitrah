@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, Welcome to my Profile 👋
+![Fansuri Fadel Fitrah Prakon](img/my_photo.png)
 
 <!--
 **fadelfitrah/fadelfitrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Eduprima Education
+- 🌱 I’m currently learning [*Django*](https://django.com) Framework
+- ⭐⭐⭐⭐⭐
