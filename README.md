@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ##### Connect with me
 
 !["https://instagram.com/fadelfitrah_"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://my-portfolio-eight-woad-86.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a>
+<a href="https://www.linkedin.com/in/fansuri-fadel-fitrah-prakon-87ba8a275" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
 ##### My Github Stats
